@@ -1,9 +1,7 @@
 <img alt='banner' width='100%' height="300px" src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJwLHbAw6YT6a4TRo3V-P5_TMNxfkDkDNidA&s'>
 <h1 align="center">Hi 👋, I'm Anurag Kapoor</h1>
 <h3 align="center">"Mastering the Art of Full Stack Development"</h3>
-<img align='right' alt="code" width='400' src='[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJwLHbAw6YT6a4TRo3V-P5_TMNxfkDkDNidA&s](https://plus.unsplash.com/premium_photo-1663100722417-6e36673fe0ed?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y29kaW5nfGVufDB8fDB8fHww)'>
-
-<p align="left"> <img src="https://plus.unsplash.com/premium_photo-1663100722417-6e36673fe0ed?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y29kaW5nfGVufDB8fDB8fHww" alt="anuragkapoor19" /> </p>
+<img align='right' alt="code" width='400' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJwLHbAw6YT6a4TRo3V-P5_TMNxfkDkDNidA&s](https://plus.unsplash.com/premium_photo-1663100722417-6e36673fe0ed?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y29kaW5nfGVufDB8fDB8fHww'>
 
 - 🌱 I’m currently learning **MongoDb, Express, React and Node**
 
